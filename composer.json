@@ -1,5 +1,5 @@
 {
-    "name": "chabibnr/yii2-midtrans",
+    "name": "adryanev/yii2-midtrans",
     "description": "Midtrans payment",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","midtrands"],
